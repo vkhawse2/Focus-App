@@ -1,0 +1,5 @@
+FocusApp.exe
+resources.o
+test_dsp
+test_dsp.exe
+*.obj
